@@ -1,0 +1,6 @@
+@FindiJobs.CV.API_HostAddress = http://localhost:5196
+
+GET {{FindiJobs.CV.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
